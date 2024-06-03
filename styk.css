@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+blockquote {
+    margin: 20px 0;
+    padding: 10px 20px;
+    background: #f9f9f9; /* Couleur de fond légère pour le bloc */
+    border-left: 5px solid rgba(0, 0, 0, 0.1); /* Barre verticale transparente */
+    font-style: italic; /* Optionnel : mettre le texte en italique */
+    color: #555; /* Couleur du texte */
+}
+
+.pull-right{
+    padding-left: 1200px;
+}
+
+
+#ccc{
+    margin-left: 50%;
+}
+li{
+    font-size: large;
+
+
+}
+
+.title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+#para{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+}
+#para img{
+    float: right;
+}
+h5, h4{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 25px;
+}
+#thera, li{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 19px;
+}
+
+.tt{
+     font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 19px;
+}
+
+.gen{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+}
+.theran{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 19px;
+}
+.the{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+}
+.ther{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+}
+.theranc{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+}
